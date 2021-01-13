@@ -1,0 +1,23 @@
+{
+  "name": "pisior2",
+  "version": "0.0.1",
+  "description": "pisior unity version protoype",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawiddiwad/unity-test.git"
+  },
+  "author": "Dawid Dobrowolski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dawiddiwad/unity-test/issues"
+  },
+  "homepage": "https://github.com/dawiddiwad/unity-test#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}

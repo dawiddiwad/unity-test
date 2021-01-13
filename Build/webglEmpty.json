@@ -1,0 +1,16 @@
+{
+"companyName": "LemonPlum",
+"productName": "Pisior",
+"productVersion": "0.1",
+"dataUrl": "webglEmpty.data.unityweb",
+"wasmCodeUrl": "webglEmpty.wasm.code.unityweb",
+"wasmFrameworkUrl": "webglEmpty.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
